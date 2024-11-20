@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Andrew]!
+# 👋 Hi there, I'm Andrew!
 
 ### 🚀 About Me
 - 🎓 **Third-year Computer Engineering student at McMaster University**  
