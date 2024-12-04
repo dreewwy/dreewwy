@@ -17,3 +17,4 @@
 
 ### 🌱 Currently Learning
 - Digital Systems design
+- Rust
